@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DiyorSocial/static/css/main.92c13851.css",
+    "main.js": "/DiyorSocial/static/js/main.a0dc6796.js",
+    "index.html": "/DiyorSocial/index.html",
+    "main.92c13851.css.map": "/DiyorSocial/static/css/main.92c13851.css.map",
+    "main.a0dc6796.js.map": "/DiyorSocial/static/js/main.a0dc6796.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c13851.css",
+    "static/js/main.a0dc6796.js"
+  ]
+}
